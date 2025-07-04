@@ -1,4 +1,4 @@
-# ✅ JWT Authenticated Fullstack To-Do List App
+# JWT Authenticated Fullstack To-Do List App
 
 This is a secure fullstack To-Do List application featuring:
 
@@ -11,7 +11,7 @@ Users can register, log in, and manage their own task list privately and securel
 
 ---
 
-## 🚀 Features
+## Features
 
 - 🔐 User login and registration with JWT
 - ✅ Add, edit, delete tasks
